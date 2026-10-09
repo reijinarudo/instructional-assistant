@@ -35,7 +35,7 @@ The screenshot shows the assistant after answering "What is a data block in TIA 
 Open PowerShell in the folder where you want the project.
 
 ```powershell
-git clone https://github.com/USERNAME/instructional-assistant.git
+git clone https://github.com/reijinarudo/instructional-assistant.git
 cd instructional-assistant
 py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
