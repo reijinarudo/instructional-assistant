@@ -1,0 +1,25 @@
+# Secrets and local config
+.env
+config.local.*
+sia_config.json
+*_config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+myenv/
+env/
+
+# Build output (PyInstaller)
+build/
+dist/
+*.exe
+
+# Logs, caches, recordings
+*.log
+logs/
+recordings/
+*.wav
+chatgptlogs.txt

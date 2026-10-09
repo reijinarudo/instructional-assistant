@@ -1,0 +1,7 @@
+# Pinned to the versions in the environment the original build ran in (Python 3.12.2, Windows).
+openai==1.97.1
+websockets==15.0.1
+sounddevice==0.5.2
+numpy==2.3.2
+pygame==2.6.1
+python-dotenv==1.1.1
